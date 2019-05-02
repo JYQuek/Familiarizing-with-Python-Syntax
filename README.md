@@ -1,2 +1,2 @@
-# Project1
-Project 1 Submission
+# Familiarizing with Basic Python Syntax
+
